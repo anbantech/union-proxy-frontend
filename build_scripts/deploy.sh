@@ -180,7 +180,7 @@ if [ $# -eq 1 ]; then
             rm $PWD/$config_file
 
             if [ $? -ne 0 ]; then
-                log "WARNING" "$PWD/$config_file is not a existed, skipping..."
+                log "WARNING" "$PWD/$config_file is not existed, skipping..."
             else
                 log "INFO" "remove union-proxy successfully, you can re-install by using [sh ./deploy.sh install]"
             fi

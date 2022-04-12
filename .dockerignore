@@ -1,17 +1,16 @@
 .DS_Store
-node_modules
-/dist
-
-
-# local env files
-.env.local
-.env.*.local
-
-# Log files
+node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
+/test/e2e/reports/
+selenium-debug.log
+.history
+*.zip
+*.tar
+.prettierrc
+src/
+coverage
 
 # Editor directories and files
 .idea
@@ -20,7 +19,6 @@ pnpm-debug.log*
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
 
-*.tar
-*.zip
+# eslint cache
+.eslintcache

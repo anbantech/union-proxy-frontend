@@ -24,3 +24,5 @@ pnpm-debug.log*
 
 *.tar
 *.zip
+
+build_scripts/config.json

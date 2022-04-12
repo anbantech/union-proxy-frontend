@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "name": "易恒",
+            "desc": "易恒智能模糊测试系统1",
+            "link": "http://10.8.1.206:9005/",
+            "disable": false,
+            "abbreviation": "yh"
+        },
+        {
+            "name": "易察",
+            "desc": "易恒智能模糊测试系统2",
+            "link": "",
+            "disable": false,
+            "abbreviation": "yc"
+        },
+        {
+            "name": "易识",
+            "desc": "易恒智能模糊测试系统3",
+            "link": "",
+            "disable": false,
+            "abbreviation": "ys"
+        },
+        {
+            "name": "易侦",
+            "desc": "易恒智能模糊测试系统4",
+            "link": "",
+            "disable": false,
+            "abbreviation": "yz"
+        },
+        {
+            "name": "易净",
+            "desc": "易恒智能模糊测试系统5",
+            "link": "",
+            "disable": false,
+            "abbreviation": "yj"
+        },
+        {
+            "name": "易相",
+            "desc": "易恒智能模糊测试系统6",
+            "link": "",
+            "disable": false,
+            "abbreviation": "yxiang"
+        },
+        {
+            "name": "易识SCA",
+            "desc": "易恒智能模糊测试系统7",
+            "link": "",
+            "disable": false,
+            "abbreviation": "sca"
+        }
+    ]
+}

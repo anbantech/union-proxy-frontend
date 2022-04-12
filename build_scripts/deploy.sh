@@ -76,43 +76,50 @@ generateConfigFile() {
             \"name\": \"$yh_name\",
             \"desc\": \"$yh_desc\",
             \"link\": \"$yh_link\",
-            \"disable\": false
+            \"disable\": false,
+            \"abbreviation\": \"yh\"
         },
         {
             \"name\": \"$yc_name\",
             \"desc\": \"$yc_desc\",
             \"link\": \"$yc_link\",
-            \"disable\": false
+            \"disable\": false,
+            \"abbreviation\": \"yc\"
         },
         {
             \"name\": \"$ys_name\",
             \"desc\": \"$ys_desc\",
             \"link\": \"$ys_link\",
-            \"disable\": false
+            \"disable\": false,
+            \"abbreviation\": \"ys\"
         },
         {
             \"name\": \"$yz_name\",
             \"desc\": \"$yz_desc\",
             \"link\": \"$yz_link\",
-            \"disable\": false
+            \"disable\": false,
+            \"abbreviation\": \"yz\"
         },
         {
             \"name\": \"$yj_name\",
             \"desc\": \"$yj_desc\",
             \"link\": \"$yj_link\",
-            \"disable\": false
+            \"disable\": false,
+            \"abbreviation\": \"yj\"
         },
         {
             \"name\": \"$yxiang_name\",
             \"desc\": \"$yxiang_desc\",
             \"link\": \"$yxiang_link\",
-            \"disable\": false
+            \"disable\": false,
+            \"abbreviation\": \"yxiang\"
         },
         {
             \"name\": \"$sca_name\",
             \"desc\": \"$sca_desc\",
             \"link\": \"$sca_link\",
-            \"disable\": false
+            \"disable\": false,
+            \"abbreviation\": \"sca\"
         }
     ]
 }" > $config_file

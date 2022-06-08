@@ -1,24 +1,5 @@
-# union-proxy-frontend
+## Introduce
+As an entry page for various projects of the company, similar to springboard.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Usage
+For details: https://anban.feishu.cn/docs/doccn2WgQ6OUXfB54UueKAaRQyf
